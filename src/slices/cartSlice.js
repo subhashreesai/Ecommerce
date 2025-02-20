@@ -49,7 +49,7 @@ export const { addToCart,
               removeFromCart, 
               saveShippingAddress, 
             savePaymentMethod,
-            clearCartItems
+            clearCartItems,
      } = cartSlice.actions;
 
 export default cartSlice.reducer;
